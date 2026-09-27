@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Outer subtle hexagonal nano-shield matrix -->
+  <path d="M50 8 L85 28 L85 72 L50 92 L15 72 L15 28 Z" stroke="#0B3558" stroke-width="2.5" stroke-dasharray="3 3" opacity="0.4"/>
+  <!-- Central Shield / Droplet Fusion -->
+  <path d="M50 14 C50 14 74 42 74 62 C74 75.25 63.25 86 50 86 C36.75 86 26 75.25 26 62 C26 42 50 14 50 14 Z" fill="#0B3558"/>
+  <!-- Embedded Organic Leaf / Nano-Sensor Circuit node inside droplet -->
+  <path d="M50 36 C50 36 62 50 62 64 C62 70.6 56.6 76 50 76 C43.4 76 38 70.6 38 64 C38 52 50 36 50 36 Z" fill="#F8F6F0" opacity="0.95"/>
+  <!-- Scientific Nano-matrix core dot and leaf stem -->
+  <path d="M50 44 L50 70 M50 54 L56 48 M50 60 L44 54" stroke="#0B3558" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="50" cy="42" r="2.5" fill="#2D8A4E"/>
+</svg>
